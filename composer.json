@@ -17,6 +17,6 @@
 	"require":
 	{
 		"silverstripe/cms": "3.*",
-		"silverstripe/widgets": "3.*"
+		"silverstripe/widgets": "0.1"
 	}
 }
